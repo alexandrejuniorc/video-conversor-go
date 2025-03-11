@@ -1,0 +1,4 @@
+# Quando encontrar muitos erros para executar um script
+- Garanta que você esteja utilizando docker compose exec <container> <command>
+- Nunca faça upgrade ou downgrade de bibliotecas, perguntar antes
+- Verifique se você já não fez algo similar antes
